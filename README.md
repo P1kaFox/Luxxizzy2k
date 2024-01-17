@@ -13,5 +13,5 @@ Guap
 
 
 
-<p>Звонок <a href="tel:+7(911)-104-10-68"> +7(911)-104-10-68 </a></p>
+<p>Звонок <a href="+79111041068"> +7(911)-104-10-68 </a></p>
 <p>Почта <a href="mailto:stoslime@gmail.com"> stoslime@gmail.com </a></p>
