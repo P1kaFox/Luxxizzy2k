@@ -8,3 +8,10 @@ Guap
 
 
 <img src="istockphoto-1288385045-612x612.jpg" alt="альтернативный текст">
+
+
+
+
+
+<p>Звонок <a href="tel:+7(911)-104-10-68"> +7(911)-104-10-68 </a></p>
+<p>Почта <a href="mailto:stoslime@gmail.com"> stoslime@gmail.com </a></p>
